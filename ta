@@ -1,48 +1,40 @@
 #EXTM3U
 #SOURCEIT
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://toffeelive.com/policies/assets/images/sticky_Logo_2.png"
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Star_Jalsha_2012.png/revision/latest?cb=20191203094754"
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=d07aa7292b474676b9ca808205cf78588307450e-63762c2fd2fc4146dcb4e8c387ad7757-1669815646-1669804846
-http://12.1.1.1:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=2dfdd56d9fff539ea383255abf95ae1d86af8999-d23ac454a113b6457e75d05bc9e5a317-1669815548-1669804748
-http://12.1.1.1:8082/colorsbangla/index.m3u8?token=d80e7c76978a0b0d76c1d851d20e36cf7d59748f-88273d326a280bf3730fcc0987bc39c3-1669815611-1669804811
-http://100.64.64.11/Bein_Sports_2/index.m3u8
-http://100.64.64.11/tsports_streamtv/index.m3u8
-http://100.64.64.11/Sports18/index.m3u8
-http://100.64.64.11/9XM/index.m3u8
-http://100.64.64.11/Disney_Channel/index.m3u8
-http://100.64.64.11/Star_Movies/index.m3u8
-http://172.16.50.3:8082/colorsbangla/index.m3u8?token=948bc640f42b0dff56541c8486873b19639860fb-c27b272fe42a5fea6c8823d31c3659c0-1670000133-1669989333
-http://172.16.50.3:8082/Star-Jalsha/index.m3u8?token=011b674cbf39ce7cc6a23c337fe184888e476ee1-58956ab8343139fd897c9e8cca06f821-1670000165-1669989365
-http://172.16.50.3:8082/ZeeBanglaHD/index.m3u8?token=a0afc2978c10ff9cbfda4795bc5ef319f23c19a4-bc2dab935670369c9af38b2ea31d0957-1670000166-1669989366
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-http://12.1.1.1:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=2dfdd56d9fff539ea383255abf95ae1d86af8999-d23ac454a113b6457e75d05bc9e5a317-1669815548-1669804748
-http://12.1.1.1:8082/colorsbangla/index.m3u8?token=d80e7c76978a0b0d76c1d851d20e36cf7d59748f-88273d326a280bf3730fcc0987bc39c3-1669815611-1669804811
-http://100.64.64.11/Bein_Sports_2/index.m3u8
-http://100.64.64.11/tsports_streamtv/index.m3u8
-http://100.64.64.11/Sports18/index.m3u8
-http://100.64.64.11/9XM/index.m3u8
-http://100.64.64.11/Disney_Channel/index.m3u8
-http://100.64.64.11/Star_Movies/index.m3u8
-http://172.16.50.3:8082/colorsbangla/index.m3u8?token=948bc640f42b0dff56541c8486873b19639860fb-c27b272fe42a5fea6c8823d31c3659c0-1670000133-1669989333
-http://172.16.50.3:8082/Star-Jalsha/index.m3u8?token=011b674cbf39ce7cc6a23c337fe184888e476ee1-58956ab8343139fd897c9e8cca06f821-1670000165-1669989365
-http://172.16.50.3:8082/ZeeBanglaHD/index.m3u8?token=a0afc2978c10ff9cbfda4795bc5ef319f23c19a4-bc2dab935670369c9af38b2ea31d0957-1670000166-1669989366
-http://103.159.4.38:8091/CH2-SP2/index.m3u8
-http://103.159.4.38:8091/CH3-SP3/index.m3u8
 http://12.1.1.1:8082/Star-Jalsha/index.m3u8?token=573a73674faccf4ae2f4443fea5b001160c0d5ac-8de3929935204d0e59fe587533ea1a9a-1670233690-1670222890
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://download.logo.wine/logo/Sony_Aath/Sony_Aath-Logo.wine.png"
 http://12.1.1.1:8082/Sonyaath/index.m3u8?token=6f050bd0debb4308cf33cf2a269e2c87fe31b9e1-bd5c3a6c4cf90aa31e4b31d1cd2f749f-1670233695-1670222895
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBVbe29ZEcapeKzpFCFjhCM0cut7mSfVmEFbgTqOyHKoi-8IAIYfW6wg&s=10"
 http://12.1.1.1:8082/colorsbangla/index.m3u8?token=c9bf2a5792d365af7616d2be7f6c20ad38c860e1-36ded68222ee548dd7f2858858174aa2-1670233699-1670222899
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDebBJs3LtO2S0a52VUtRxfehHWajnYcCmE8NMVSHHzHyZFe5QH5Jm-BY&s=10"
 http://12.1.1.1:8082/ZeeBanglacinema/index.m3u8?token=fb4a8a7fb94b788a64e4c49b06cecc2f91080dcc-f81b2e189db2105968942a1c2468763e-1670233708-1670222908
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png"
 http://12.1.1.1:8082/Deepto-Tv/index.m3u8?token=13076029083e579eef6c5213ce625f2cbc47f124-532809145c8a5789c4f0b5ed894c371d-1670233663-1670222863
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png"
 http://12.1.1.1:8082/Duronto_TV/index.m3u8?token=d2185918bf0d917a2d6a6c0dde372bba0d9eaefa-61afd3a4fb1448c9a09f18f942a01b08-1670233676-1670222876
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125"
 http://12.1.1.1:8082/ZeeBanglaHD/index.m3u8?token=1663b472f10a79616c91cf641164f87e701b2928-281bde165d757fb30ac3f07f38bc373d-1670233683-1670222883
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg"
 http://12.1.1.1:8082/MN-Plus/index.m3u8?token=a33e6bc731470c872de234e9015416524602aa76-f5c134f62db751c8f120faaa3d624d8a-1670233652-1670222852
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png"
 http://12.1.1.1:8082/Sony-Max/index.m3u8?token=7ff7d957dfdb905aa91888c5df83b4851556f2fd-23f9c716e7beca37c88486053ddfc3c4-1670233644-1670222844
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png"
 http://12.1.1.1:8082/SonyTVHD/index.m3u8?token=a115448e99c99a7085fb69d5c09d2594290bb7a9-544181160b10584343df17255fe182bc-1670233636-1670222836
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png"
 http://12.1.1.1:8082/colorsindia/index.m3u8?token=ad398a402af65f53a37ac213d0e521e7beafebd5-a11a79175828e4c18a5183ef8182fd52-1670233639-1670222839
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Colors_Cineplex_Superhits_logo.jpg"
 http://12.1.1.1:8082/Colors-Cineplex/index.m3u8?token=ac225e35c980c84efed8ce81e9afba2bfbc3e986-197b53a9c847fbcef990608932f64814-1670233627-1670222827
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/d/d4/Sony_Sab_new_logo.png"
 http://12.1.1.1:8082/Sony_Sab/index.m3u8?token=9052f621612b909f48be20bfae1b6d492c2d4e07-1d939c22e28b31b17eb84d62cb107520-1670233633-1670222833
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmaqf6kmMG2Jvpmu2p4X4kk45Ip1pMjDeJEke2g3ukNa6PaXKtETpEptc&s=10"
 http://12.1.1.1:8082/Cartoon-Network/index.m3u8?token=8bb62eb4894dc77cb4c407d43f8618d2001d1d02-b3695a64c16c5873bab24de0ec61b52f-1670233611-1670222811
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest/scale-to-width-down/250?cb=20210508163434"
 http://12.1.1.1:8082/9XM/tracks-v1/mono.m3u8?token=3c46ebb3ae2f6cb0f82b132900845a090771baa8-8a3ef2893e52f65159c7ea90e4b41261-1670233618-1670222818
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/2560px-MTV_Logo.svg.png"
 http://12.1.1.1:8082/Mtv/tracks-v1a1/mono.m3u8?token=f2f8a8bec034b1c91db31f19e531e8de44eb3ef6-86cdc02aa2518368a2ef81347101cd1d-1670233621-1670222821
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png"
 http://12.1.1.1:8082/T-Sports/index.m3u8?token=5195dfb2953c2068bb6fd49597ef4b502487371c-6c1bb51c0f901847e34f54d509e34bf0-1670233608-1670222808
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png"
 http://12.1.1.1:8082/Cartoon-Network/index.m3u8?token=8bb62eb4894dc77cb4c407d43f8618d2001d1d02-b3695a64c16c5873bab24de0ec61b52f-1670233611-1670222811
