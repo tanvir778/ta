@@ -1,6 +1,6 @@
 #EXTM3U
 #SOURCEIT
-#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://images.app.goo.gl/ijJ2cnHXTudNYd3p7"
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://toffeelive.com/policies/assets/images/sticky_Logo_2.png"
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=d07aa7292b474676b9ca808205cf78588307450e-63762c2fd2fc4146dcb4e8c387ad7757-1669815646-1669804846
 http://12.1.1.1:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=2dfdd56d9fff539ea383255abf95ae1d86af8999-d23ac454a113b6457e75d05bc9e5a317-1669815548-1669804748
