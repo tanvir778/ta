@@ -1,6 +1,6 @@
 #EXTM3U
 #SOURCEIT
-#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://toffeelive.com/policies/assets/images/sticky_Logo_2.png"
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://toffeelive.com/policies/assets/images/sticky_Logo_2.png",Toffee 720p
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Star_Jalsha_2012.png/revision/latest?cb=20191203094754"
 http://12.1.1.1:8082/Star-Jalsha/index.m3u8?token=573a73674faccf4ae2f4443fea5b001160c0d5ac-8de3929935204d0e59fe587533ea1a9a-1670233690-1670222890
@@ -38,3 +38,5 @@ http://12.1.1.1:8082/Mtv/tracks-v1a1/mono.m3u8?token=f2f8a8bec034b1c91db31f19e53
 http://12.1.1.1:8082/T-Sports/index.m3u8?token=5195dfb2953c2068bb6fd49597ef4b502487371c-6c1bb51c0f901847e34f54d509e34bf0-1670233608-1670222808
 #EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png"
 http://12.1.1.1:8082/Cartoon-Network/index.m3u8?token=8bb62eb4894dc77cb4c407d43f8618d2001d1d02-b3695a64c16c5873bab24de0ec61b52f-1670233611-1670222811
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1BgAWawMqKi0I8TAEBzC6pkAmfI8zEEJe4w&usqp=CAU"Being Sports
+http://100.64.64.11/Bein_Sports_1/index.m3u8
