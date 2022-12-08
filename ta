@@ -40,3 +40,6 @@ http://12.1.1.1:8082/T-Sports/index.m3u8?token=5195dfb2953c2068bb6fd49597ef4b502
 http://12.1.1.1:8082/Cartoon-Network/index.m3u8?token=8bb62eb4894dc77cb4c407d43f8618d2001d1d02-b3695a64c16c5873bab24de0ec61b52f-1670233611-1670222811
 #EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1BgAWawMqKi0I8TAEBzC6pkAmfI8zEEJe4w&usqp=CAU" Being Sports
 http://100.64.64.11/Bein_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1BgAWawMqKi0I8TAEBzC6pkAmfI8zEEJe4w&usqp=CAU"Being Sports1
+http://100.64.64.11/Bein_Sports_2/index.m3u8
+
