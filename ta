@@ -46,4 +46,11 @@ http://100.64.64.11/Bein_Sports_2/index.m3u8
 http://100.64.64.11/tsports_streamtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRuljpjJG5vH8tAE-wR0fFj8ZDK_doeNucYt_PvQnMCqLUu46rzd2L64M&s=10",GAZI TV HD
 http://100.64.64.11/GTV_HD/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name=" Harry Potter" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png",Somoy_TV_HD
+http://12.1.1.1:8082/Somoy-TV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Harry Potter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png",Chaneel_24_HD
+http://12.1.1.1:8082/Channel24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Harry Potter" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png",Sony_PixHD
+http://12.1.1.1:8082/SonyPix/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Harry Potter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/2349px-Star_Gold_2020.svg.png",Star_Gold_HD
+http://12.1.1.1:8082/StarGold/tracks-v1a1/mono.m3u8
