@@ -55,4 +55,8 @@ http://12.1.1.1:8082/SonyPix/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Harry Potter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/2349px-Star_Gold_2020.svg.png",Star_Gold_HD
 http://12.1.1.1:8082/StarGold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",TSports_HD Hulu
-http://live.hoihulloor.com/live/hull1000/index.m3u8
+https://playing.goforfreedomwme.net/live/fs1us/index.m3u8
+#EXTINF:-1
+http://lb.buy-global.store/live/lb/bm1-multi.m3u8
+#EXTINF:-1
+https://playing.goforfreedomwme.net/live/beinsportsmax1ar/index.m3u8
