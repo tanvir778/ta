@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://toffeelive.com/policies/assets/images/sticky_Logo_2.png",Toffee 720p
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Star_Jalsha_2012.png/revision/latest?cb=20191203094754",Star Jalsha 
-http://12.1.1.1:8082/Star-Jalsha/index.m3u8
+http://172.16.50.2:8082/Star-Jalsha/index.m3u8?token=4230c3576ded3188743459db70c461fd768e163b-b7380a30d4cb71d2bd5bf786746d2edf-1673196565-1673185765
 #EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://download.logo.wine/logo/Sony_Aath/Sony_Aath-Logo.wine.png",Sony Aath
 http://12.1.1.1:8082/Sonyaath/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBVbe29ZEcapeKzpFCFjhCM0cut7mSfVmEFbgTqOyHKoi-8IAIYfW6wg&s=10",Colors Bangla 
-http://12.1.1.1:8082/colorsbangla/index.m3u8
+http://172.16.50.2:8082/colorsbangla/index.m3u8?token=f203fce959869c5c186fb688686b2616d8cb4a90-e39f8e6a733cfba31ccedda9b5ffb447-1673196574-1673185774
 #EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDebBJs3LtO2S0a52VUtRxfehHWajnYcCmE8NMVSHHzHyZFe5QH5Jm-BY&s=10",ZeeBangla Cinema
 http://12.1.1.1:8082/ZeeBanglacinema/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",Deepto_TV
@@ -15,7 +15,7 @@ http://12.1.1.1:8082/Deepto-Tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto_TV
 http://12.1.1.1:8082/Duronto_TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125",ZeeBangla HD
-http://12.1.1.1:8082/ZeeBanglaHD/index.m3u8
+http://172.16.50.2:8082/ZeeBanglaHD/index.m3u8?token=a4c10e4d5ea914154ec1059a8c844691e27f5e4a-07a10d93391bb962cc9bcae98ff2acc8-1673196323-1673185523
 #EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg",MN-Plus
 http://12.1.1.1:8082/MN-Plus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Toffee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",SonyMax HD
