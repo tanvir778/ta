@@ -1,4 +1,22 @@
 #EXTM3U
 #SOURCEIT
 #EXTINF:-1 tvg-id="" tvg-name=" The Peripheral" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfmfwHJen4VQ88Fby-TelNhHQJDvBXSqXYa1HMuyyFDx12Eujl",The Peripheral S1E1
-http://10.16.100.206/ftps3/ftps3d1/Movies/South%20Indian%20(Hindi%20Dubbed)/Veeramae%20Vaagai%20Soodum%20(2022)%201080p%20WEBRip.mp4
+http://10.16.100.206
+#EXTINF:-1 tvg-id="" tvg-name=" The Peripheral" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfmfwHJen4VQ88Fby-TelNhHQJDvBXSqXYa1HMuyyFDx12Eujl",The Peripheral S1E1
+http://12.1.1.1:8082/Ekattor-tv/index.m3u8?token=265517496c2e81e685e59cceba4ace9a34a37b2d-84b609dc272afd341ec4fede593221cf-1688479346-1688468546
+#EXTINF:-1 tvg-id="" tvg-name=" The Peripheral" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfmfwHJen4VQ88Fby-TelNhHQJDvBXSqXYa1HMuyyFDx12Eujl",The Peripheral S1E1
+http://12.1.1.1:8082/Atn-News/index.m3u8?token=6573fc77fed3007774b19f9cc76a1ea25617f4c6-fc70b58092c2f09c6860d8eb453a483a-1688479350-1688468550
+#EXTINF:-1 tvg-id="" tvg-name=" The Peripheral" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfmfwHJen4VQ88Fby-TelNhHQJDvBXSqXYa1HMuyyFDx12Eujl",The Peripheral S1E1
+http://12.1.1.1:8082/Somoy-TV/index.m3u8?token=ba6aa00e4626419418a3934ede51e395286a35d8-13f219c086b23d6cfdebefe07a362a13-1688479353-1688468553
+#EXTINF:-1 tvg-id="" tvg-name=" The Peripheral" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfmfwHJen4VQ88Fby-TelNhHQJDvBXSqXYa1HMuyyFDx12Eujl",The Peripheral S1E1
+http://10.16.100.212/iccftps12/iccftps12sasd4/Tv%20Show/Serials%20(Dual%20Audio)/The%20Letter%20for%20the%20King%20Season%2001%20(2020)%20(Hindi%20&%20English)%20Completed/The%20Letter%20for%20the%20King%20S01E01.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" The Peripheral" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfmfwHJen4VQ88Fby-TelNhHQJDvBXSqXYa1HMuyyFDx12Eujl",The Peripheral S1E1
+http://10.16.100.212/iccftps12/iccftps12sasd4/Tv%20Show/Serials%20(Dual%20Audio)/The%20Letter%20for%20the%20King%20Season%2001%20(2020)%20(Hindi%20&%20English)%20Completed/The%20Letter%20for%20the%20King%20S01E02.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" The Peripheral" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfmfwHJen4VQ88Fby-TelNhHQJDvBXSqXYa1HMuyyFDx12Eujl",The Peripheral S1E1
+http://10.16.100.212/iccftps12/iccftps12sasd4/Tv%20Show/Serials%20(Dual%20Audio)/The%20Letter%20for%20the%20King%20Season%2001%20(2020)%20(Hindi%20&%20English)%20Completed/The%20Letter%20for%20the%20King%20S01E03.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" The Peripheral" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfmfwHJen4VQ88Fby-TelNhHQJDvBXSqXYa1HMuyyFDx12Eujl",The Peripheral S1E1
+http://10.16.100.212/iccftps12/iccftps12sasd1/Movies/Bangla%20(BD)/Tin%20Shoroter%20Golpo%20(2022)%201080p%20WEBRip.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" The Peripheral" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfmfwHJen4VQ88Fby-TelNhHQJDvBXSqXYa1HMuyyFDx12Eujl",The Peripheral S1E1
+http://12.1.1.1:8082/DBC-NEWS/index.m3u8?token=be960d7593cdedb86b106f032c7bb0619c87c4bd-d2e3661c0d24c93d00075a15491bdd5b-1688479337-1688468537
+#EXTINF:-1 tvg-id="" tvg-name=" The Peripheral" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfmfwHJen4VQ88Fby-TelNhHQJDvBXSqXYa1HMuyyFDx12Eujl",DARK ROOM
+http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Bangla%20(BD)/Dark%20Room%20(2021)%20720p%20WEBRip.mp4
