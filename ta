@@ -1,69 +1,15 @@
 #EXTM3U
-#EXTINF:-1 ,120. National Geographic
-https://bldcmprod-cdn.toffeelive.com/cdn/live/nick/playlist.m3u8
-#EXTINF:-1 ,121. NEXT - PAN
-http://10.16.100.212/iccftps12/iccftps12sasd2/TV%20Show/Dual%20Audio/Celebrity%20(Selleobeuriti)%20Season%2001%20(2023)%20(Hindi%20&%20English)%20Completed/Celebrity%20(Selleobeuriti)%20S01E02.mp4
-#EXTINF:-1 ,122. Nick Jr
-http://45.5.117.182:8000/play/a0eo/index.m3u8
-#EXTINF:-1 ,123. Nick SIM HD
-http://45.5.117.182:8000/play/a0i7/index.m3u8
-#EXTINF:-1 ,124. Nickelodeon
-http://45.5.117.182:8000/play/a0is/index.m3u8
-#EXTINF:-1 ,055. Discovery Channel HD
-http://45.5.117.182:8000/play/a0ju/index.m3u8
-#EXTINF:-1 ,056. Discovery Home & Health
-http://45.5.117.182:8000/play/a0iw/index.m3u8
-#EXTINF:-1 ,057. Discovery ID HD
-http://45.5.117.182:8000/play/a0jy/index.m3u8
-#EXTINF:-1 ,058. Discovery Kids
-http://45.5.117.182:8000/play/a0ir/index.m3u8
-#EXTINF:-1 ,059. Discovery Turbo
-http://45.5.117.182:8000/play/a0iS/index.m3u8
-#EXTINF:-1 ,060. Discovery World HD
-http://45.5.117.182:8000/play/a0jv/index.m3u8
-#EXTINF:-1 ,061. Disney
-http://45.5.117.182:8000/play/a0it/index.m3u8
-#EXTINF:-1 ,062. Disney JR
-http://45.5.117.182:8000/play/a0eq/index.m3u8
-#EXTINF:-1 ,Discovery Channel
-http://181.189.243.254:8000/play/a0sa/index.m3u8
-#EXTINF:-1 ,SAB HD
-http://208.86.19.13:81/7022.stream/index.m3u8
-#EXTINF:-1 ,STAR.BHARAT
-http://208.86.19.13:81/7211.stream/index.m3u8
-#EXTINF:-1 ,&PICTURESHD
-http://208.86.19.13:81/7055.stream/index.m3u8
-#EXTINF:-1 ,SONY.MAX HD
-http://208.86.19.13:81/7066.stream/index.m3u8
-#EXTINF:-1 ,SONY.MAX 2
-http://208.86.19.13:81/7300.stream/index.m3u8
-#EXTINF:-1 ,Colors.Cineplex HD
-http://208.86.19.13:81/73555.stream/index.m3u8
-#EXTINF:-1 ,Star Gold(BD)
-http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,COLORS HD (IN)
-http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
-#EXTINF:-1 ,Star Bharat HD
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
-#EXTINF:-1 ,STAR PLUS HD (IN)
-http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,Zee TV HD
-http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
-#EXTINF:-1 ,B4U MOVIES (IN)
-http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,Zee Cinema HD
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,Colors
-http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
-#EXTINF:-1 ,Star Gold Select HD
-http://208.86.19.13:81/7099.stream/index.m3u8
-#EXTINF:-1 ,STAR PLUS HD (IN)
-http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
-#EXTINF:-1 ,UTV HD (IN)
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,ESPN
-http://191.102.90.97:8000/play/a08b/index.m3u8
-#EXTINF:-1 ,Star Sports 1
-http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/58220
-#EXTINF:-1 ,Viaplay
-https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#EXTINF:-1 ,See You in my life
+http://ftp7.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/See%20You%20in%20My%2019th%20Life%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BKor%5D/Season%201%201080p/See.You.in.My.19th.Life.S01E01.Happiness.Sadness.Pity.and.Joy.1080p.NF.WEB-DL.AAC2.0.x264-mkvCinemas.mkv
+#EXTINF:-1 ,121.,See You in my life
+http://ftp7.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/See%20You%20in%20My%2019th%20Life%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BKor%5D/Season%201%201080p/See.You.in.My.19th.Life.S01E02.The.Will.to.Finish.What.Youve.Started.1080p.NF.WEB-DL.AAC2.0.x264-mkvCinemas.mkv
+#EXTINF:-1 ,122. Nick
+http://103.141.2.38/hls/nick.m3u8
+#EXTINF:-1 ,122  Sony Wah
+http://103.141.2.38/hls/sonyway.m3u8
+#EXTINF:-1 ,122 Zee Bangla HD
+http://103.141.2.38/hls/zeebanglahd.m3u8
+#EXTINF:-1 ,122Star Jalsa HD 
+http://103.141.2.38/hls/starjalsha.m3u8
+#EXTINF:-1 ,122 Sony Aath
+http://103.141.2.38/hls/Sony_Aath.m3u8
