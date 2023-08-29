@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 , Disney 
-http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2021/Eternals%20%282021%29%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20DD%205.1%20ESub%20x264/Eternals%20%282021%29%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20DD%205.1%20ESub%20x264.mkv
+http://15.1.5.22:8082/zee-bangla/index.m3u8?token=8aabdec93b105e599d650015a5e393bdc2a653f6-f41251d4259353cf2fdf10e450e08e0d-1693324562-1693313762
 #EXTINF:-1 ,121.,See You in my life
-http://15.1.5.18:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=294417077038867289a051d08152e3f85f4d7e5d-8233c87bab779bd4f04c4ecacfd1ce3d-1691504411-1691493611
+http://15.1.5.14:8082/jalsha/index.m3u8?token=695b8ef64639ed17fa9dff8958944761b7060b3a-675b7d2a9968be0470bca5586c54406c-1693324643-1693313843
 #EXTINF:-1 ,122. Nick
 http://103.141.2.38/hls/nick.m3u8
 #EXTINF:-1 ,122  Sony Wah
