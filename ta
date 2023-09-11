@@ -2,5 +2,8 @@
 #EXTINF:-1 , Disney 
 http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2018/The%20Nun%20%282018%29%201080p%20Bluray%20%5BDual%20Audio%5D%20%5BHin%2BEng%5D%20%5BMoviesFlix.in%5D/The%20Nun%20%282018%29%201080p%20Bluray%20%5BDual%20Audio%5D%20%5BHin%2BEng%5D%20%5BMoviesFlix.in%5D.mkv
 #EXTINF:-1
+http://15.1.1.38:8282/PTV/index.m3u8?token=8e01904cce6ade81ad65cf627006b3a4c23dd012-742b3529283b079a913e2b0a0d79532c-1694435045-1694424245
+#EXTINF:-1
+http://15.1.1.34:8282/1LIVE/tracks-v1a1/mono.m3u8?token=18ac8814c53b51ca2393107054afc48ed8f00126-9b34a3500e9a2b0c7c6717b767147553-1694435239-1694424439
 
-http://203.80.191.3:8089/jamio/gazitv//playlist.m3u8
+
