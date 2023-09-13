@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 , Disney 
-http://15.1.1.38:8282/1LIVE/index.m3u8?token=f0ec0ee864027740357f2bada7d41786e7f30be0-78d126ee908991bbfb261814fb060c32-1694523181-1694512381
+https://stream.dlivecdn.com/cekego5479/1694531525/src/live.m3u8
 #EXTINF:-1
-http://15.1.1.38:8282/PTV/index.m3u8?token=8e01904cce6ade81ad65cf627006b3a4c23dd012-742b3529283b079a913e2b0a0d79532c-1694435045-1694424245
+https://play1nm.hnyongshun.cn/live/sd-y0or5jhnlvelqwz.m3u8
 #EXTINF:-1
-http://15.1.1.34:8282/1LIVE/tracks-v1a1/mono.m3u8?token=18ac8814c53b51ca2393107054afc48ed8f00126-9b34a3500e9a2b0c7c6717b767147553-1694435239-1694424439
+https://iam-ranapk.tk/MAC0/SPORTV/play.m3u8
 
 
