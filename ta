@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 , Disney 
-http://10.10.10.2/live/fnffeed1003/index.m3u8
+http://ftp7.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Ahsoka%20%28TV%20Mini%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BEng%5D/Season%201%201080p/Ahsoka.S01E01.Part.One.1080p.WEB-DL.DUAL.DDP5.1.Atmos.H.264.mkv
 #EXTINF:-1
 http://15.1.1.38:8282/1LIVE/index.m3u8?token=f8122d6f1f0b188c78a89dc3c6b4e0f4b6078e62-85c5a5f93c2b072b88502ceb687142c2-1694809516-1694798716
 #EXTINF:-1
